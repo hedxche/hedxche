@@ -1,4 +1,4 @@
-### 🚀 Frontend / Full-Stack Developer
+### 🚀 Frontend Developer
 
 Frontend-разработчик с опытом полного цикла разработки. Специализируюсь на стекe React / TypeScript, проектирую real-time интерфейсы и отвечаю за всю техническую часть в проекте **NIGHTWAY**.
 
